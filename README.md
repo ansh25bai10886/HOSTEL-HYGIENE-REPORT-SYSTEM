@@ -76,7 +76,8 @@ Simple Python project for hostel hygiene reporting.
 <img width="660" height="358" alt="image" src="https://github.com/user-attachments/assets/627387a5-bbad-43d3-90da-dd0a3d274bf2" />
 <img width="662" height="362" alt="image" src="https://github.com/user-attachments/assets/67439b03-4536-4ac8-a55b-ccc9359c78e0" />
 #output 2 screenshot
-<img width="663" height="360" alt="image" src="https://github.com/user-attachments/assets/d7c82659-5469-429c-b030-a6adebcb7f3a" /><img width="661" height="356" alt="image" src="https://github.com/user-attachments/assets/77e46a83-4dcc-4a8f-b6d8-0ee4f0c224ab" />
+<img width="663" height="360" alt="image" src="https://github.com/user-attachments/assets/d7c82659-5469-429c-b030-a6adebcb7f3a" />
+<img width="661" height="356" alt="image" src="https://github.com/user-attachments/assets/77e46a83-4dcc-4a8f-b6d8-0ee4f0c224ab" />
 
 
 
